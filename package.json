@@ -114,7 +114,7 @@
     "supertest-light": "^1.0.2",
     "terminal-link": "^1.3.0",
     "terminal-link-cli": "^2.0.0",
-    "terser": "^3.14.1",
+    "terser": "^4.8.1",
     "testcheck": "^1.0.0-rc.2",
     "tinymce": "^5.0.3",
     "tmp": "^0.1.0",
